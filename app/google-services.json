@@ -1,0 +1,159 @@
+{
+  "project_info": {
+    "project_number": "706464027206",
+    "firebase_url": "https://loginfirebase-67a4d.firebaseio.com",
+    "project_id": "loginfirebase-67a4d",
+    "storage_bucket": "loginfirebase-67a4d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:706464027206:android:84b5fdf39f377e95",
+        "android_client_info": {
+          "package_name": "com.zulfa.androiddasar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "706464027206-n36nhbtl59lf16hl1l84gh55hg5h7976.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.zulfa.androiddasar",
+            "certificate_hash": "c2c0aa08c2f975e22fb92ae7531bc843906bb74c"
+          }
+        },
+        {
+          "client_id": "706464027206-crdhmtmi3bvh6d3glaci2kcm4fo68ifp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATjBjawYSZMoXn24U7goRpjJzD1he9wUM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "706464027206-crdhmtmi3bvh6d3glaci2kcm4fo68ifp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:706464027206:android:51803e5cab5375e8",
+        "android_client_info": {
+          "package_name": "com.zulfa.basicasmk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "706464027206-eue99ecdo8s5a542mb5tnp429hu8j5mj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.zulfa.basicasmk",
+            "certificate_hash": "c2c0aa08c2f975e22fb92ae7531bc843906bb74c"
+          }
+        },
+        {
+          "client_id": "706464027206-crdhmtmi3bvh6d3glaci2kcm4fo68ifp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATjBjawYSZMoXn24U7goRpjJzD1he9wUM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "706464027206-crdhmtmi3bvh6d3glaci2kcm4fo68ifp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:706464027206:android:6cdac6e595015630",
+        "android_client_info": {
+          "package_name": "com.zulfa.furnitureapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "706464027206-lti2tlobqrepos4muq6iallkvrkdnog4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.zulfa.furnitureapp",
+            "certificate_hash": "c2c0aa08c2f975e22fb92ae7531bc843906bb74c"
+          }
+        },
+        {
+          "client_id": "706464027206-crdhmtmi3bvh6d3glaci2kcm4fo68ifp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATjBjawYSZMoXn24U7goRpjJzD1he9wUM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "706464027206-crdhmtmi3bvh6d3glaci2kcm4fo68ifp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:706464027206:android:f031d6e633f665fe",
+        "android_client_info": {
+          "package_name": "com.zulfa.loginfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "706464027206-2mq07ncomsp89s8ebcu2g69uf1atdhi7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.zulfa.loginfirebase",
+            "certificate_hash": "c2c0aa08c2f975e22fb92ae7531bc843906bb74c"
+          }
+        },
+        {
+          "client_id": "706464027206-crdhmtmi3bvh6d3glaci2kcm4fo68ifp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATjBjawYSZMoXn24U7goRpjJzD1he9wUM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "706464027206-crdhmtmi3bvh6d3glaci2kcm4fo68ifp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
