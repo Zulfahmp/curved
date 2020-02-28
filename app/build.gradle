@@ -28,7 +28,14 @@ dependencies {
     implementation 'androidx.constraintlayout:constraintlayout:1.1.3'
     implementation 'com.google.firebase:firebase-auth:16.0.5'
 
+    //bottom navigasi
     implementation 'com.etebarian:meow-bottom-navigation:1.0.4'
+    //image slider
+    //noinspection GradleCompatible
+    implementation "com.android.support:support-v4:28.0.0"
+    implementation 'com.squareup.picasso:picasso:2.3.2'
+    implementation 'com.nineoldandroids:library:2.4.0'
+    implementation 'com.daimajia.slider:library:1.1.5@aar'
 
     implementation 'com.android.support:design:29.0.0'
     implementation 'com.android.support:cardview-v7:29.0.0'
